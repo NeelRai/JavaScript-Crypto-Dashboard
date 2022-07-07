@@ -1,7 +1,7 @@
 {
   "version": 2,
   "builds": [
-    { "src": "./index.js", "use": "@vercel/node" }
+    { "src": "C:\\Users\neel\\Downloads\\JavaScript-Crypto-Dashboard\\index.js", "use": "@vercel/node" }
   ],
   "routes": [
     {
