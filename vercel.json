@@ -1,7 +1,7 @@
 {
   "version": 2,
   "builds": [
-    { "src": ".\views\index.ejs",
+    { "src": ".\index.ejs",
       "use": "@vercel/node" }
   ],
   "routes": [
